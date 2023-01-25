@@ -2,7 +2,7 @@
 
 These are the official best practices for WisdmLabs. This guide dictates how we, as a company, engineer websites. The purpose behind them is to improve the quality of the experiences we build as well as to standardize in order to facilitate more effective collaboration.
 
-change
+changes
 
 <a href="https://WisdmLabs.com/contact/"><img src="https://WisdmLabsdotcom-wpengine.s3.amazonaws.com/uploads/2016/10/WisdmLabs-Github-Banner.png" width="850"></a>
 
